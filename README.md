@@ -1,4 +1,4 @@
-# Coopec Kwilu - Application de Gestion
+# Coopec Kwilu - Application de Gestion d'Epargnes
 
 Cette application permet de gérer les dépôts, retraits et commandes pour la Coopec Kwilu.
 
