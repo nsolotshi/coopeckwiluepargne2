@@ -1,0 +1,16 @@
+{
+  "name": "coopec-kwilu",
+  "version": "1.0.0",
+  "description": "Application de gestion pour Coopec Kwilu",
+  "main": "index.html",
+  "scripts": {
+    "build": "echo 'Build completed'",
+    "dev": "echo 'Development server started'"
+  },
+  "keywords": ["pwa", "coopec", "gestion", "finance", "banking"],
+  "author": "Coopec Kwilu",
+  "license": "MIT",
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
